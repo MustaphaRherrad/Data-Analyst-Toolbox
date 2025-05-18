@@ -20,12 +20,12 @@ Une boîte à outils essentielle pour le Data Analyst.
 ---
 ### 📜 Introduction
 Bienvenue dans **Data-Analyst-ToolBox**...
-[📖 Lire l'introduction](01_Fondamentaux/Introduction.md)
+[📖 Lire l'introduction](01_Fondamentaux/01_Introduction.md)
 
 ### 🛠️ Fondamentaux
 Voici les bases essentielles du Data Analyst...
-* [📖 Lire la définition du Data Analyst](01_Fondamentaux/Définition_du_Data_analyst.md)
-* [📖 Lire Cycle de vie des données](01_Fondamentaux/Cycle_de_vie_des_données.md)
+* [📖 Lire la définition du Data Analyst](01_Fondamentaux/02_Définition_du_Data_analyst.md)
+* [📖 Lire Cycle de vie des données](01_Fondamentaux/03_Cycle_de_vie_des_données.md)
 
 
 ### 📂 Manipulation de fichiers
