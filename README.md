@@ -3,7 +3,7 @@ Une boîte à outils essentielle pour le Data Analyst.
 
 ## 📜 Table des matières  
 1. [00_Introduction](#00-introduction)  
-2. [01_Fondamentaux](#01-fondamentaux)
+2. [01_Fondamentaux](01_Fondamentaux/Introduction.md)
 3. [02_Statistiques_et_Probabilités](#02-statistiques-et-probabilites)  
 4. [03_Manipulation de fichiers](#03_manipulation-de-fichiers)  
     - [Formats TXT & CSV](#formats-txt--csv)  
@@ -17,9 +17,30 @@ Une boîte à outils essentielle pour le Data Analyst.
 10. [09_Automatisation_et_Outils IA](#09-Automatisation-et-outils-ia)  
 11. [10-Bonnes pratiques_et_Ressources](#10-bonnes-pratiques-et-ressources)  
 
+---
+### 📜 Introduction
+Bienvenue dans **Data-Analyst-ToolBox**...
+[📖 Lire l'introduction](01_Fondamentaux/Introduction.md)
+
+### 🛠️ Fondamentaux
+Voici les bases essentielles du Data Analyst...
+* [📖 Lire la définition du Data Analyst](01_Fondamentaux/Définition_du_Data_analyst.md)
+* [📖 Lire Cycle de vie des données](01_Fondamentaux/Cycle_de_vie_des_données.md)
+
+
+### 📂 Manipulation de fichiers
+#### Formats TXT & CSV
+Comment manipuler ces formats dans Python...
+
+#### Formats XML & JSON
+Exemples de stockage et traitement des fichiers...
+
+#### Formats Parquet & Avro
+Stockage optimisé pour le Big Data...
 
 
 
+---
 ## Présentation du projet
 
 Dans un monde où les données sont au cœur des décisions stratégiques, il est essentiel pour un **Data Analyst** de disposer des bons outils pour collecter, traiter, analyser et visualiser les informations. 
