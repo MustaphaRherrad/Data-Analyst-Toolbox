@@ -1,0 +1,29 @@
+# Ignorer les fichiers temporaires de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les dossiers de l’environnement virtuel
+venv/
+env/
+
+# Ignorer les fichiers de logs et bases de données
+*.log
+*.sqlite3
+
+# Ignorer les fichiers système macOS et Windows
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers créés par les éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Ignorer les fichiers de cache et de configuration
+.cache/
+.config/
